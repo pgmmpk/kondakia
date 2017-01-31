@@ -1,0 +1,151 @@
+\usepackage{polyglossia}
+\setmainlanguage{english}
+
+%
+% following allows conditional compilation:
+% xelatex -jobname christmas-ru.bw '\def\forcebw{}\input{christmas-ru}'
+% or
+% xelatex -jobname christmas-ru.color '\input{christmas-ru}'
+%
+\ifx\forcebw\undefined
+  \usepackage{churchslavonic}
+\else
+  \usepackage[bw]{churchslavonic}
+\fi
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+\newfontfamily\churchslavonicfont
+[Script=Cyrillic,FakeStretch=1.1,Ligatures=TeX]{PonomarUnicode.otf}
+
+\newfontfamily\churchslavonicfontspaced
+[Script=Cyrillic,FakeStretch=1.1,LetterSpace=15.0,Ligatures=TeX]{PonomarUnicode.otf}
+
+\newfontfamily\churchslavonicfontbold
+[Script=Cyrillic,FakeBold=3.0,Ligatures=TeX]{PonomarUnicode.otf}
+
+\newfontfamily\englishfont
+[Script=Latin,Ligatures=TeX]{Arial}
+
+\newfontfamily\englishfontspaced
+[Script=Latin,LetterSpace=15.0,Ligatures=TeX]{Arial}
+
+\newfontfamily\englishfontbold
+[Script=Latin,FakeBold=3.0,Ligatures=TeX]{Arial}
+
+\def\setlang#1{%
+\csname setlang#1\endcsname
+}%
+%
+\def\setlangcu{%
+\let\mainfont\churchslavonicfont
+\let\headerfont\churchslavonicfontspaced
+\let\bigheaderfont\churchslavonicfontbold
+\linespread{1.1}%
+\mainfont
+}%
+%
+\def\setlangen{%
+\let\mainfont\englishfont
+\let\headerfont\englishfontspaced
+\let\bigheaderfont\englishfontbold
+\mainfont
+}%
+%
+\let\setlangru\setlangen
+%
+\def\cont{%
+\vbox{}\hfill
+}%
+
+\newlength{\LSkip}
+\newlength{\RSkip}
+\newlength{\TSkip}
+\newlength{\BSkip}
+\setlength{\LSkip}{7mm}
+\setlength{\RSkip}{7mm}
+\setlength{\TSkip}{5mm}
+\setlength{\BSkip}{5mm}
+
+\pagestyle{empty}
+
+\def\card#1{%
+\textwidth=108mm%
+   \addtolength{\textwidth}{-\LSkip}%
+   \addtolength{\textwidth}{-\RSkip}%
+\textheight=139.5mm%
+   \addtolength{\textheight}{-\TSkip}%
+   \addtolength{\textheight}{-\BSkip}%
+\hoffset=-1in%
+   \addtolength{\hoffset}{\LSkip}%
+\oddsidemargin=0pt%
+\headheight=0pt%
+\marginparsep=0pt%
+\footskip=0pt%
+\voffset=-1in%
+  \addtolength{\voffset}{-10pt}%
+  \addtolength{\voffset}{\TSkip}%
+\topmargin=0pt%
+\headsep=0pt%
+\marginparwidth=0pt%
+\marginparpush=0pt%
+\paperwidth=108mm%
+\paperheight=139.5mm%
+\parindent=0pt%
+\parskip=0pt%
+\AtBeginDocument{\large\setlang{#1}}%
+}%
+
+\def\cardhost{%
+\textwidth=216mm%
+\textheight=279mm%
+\hoffset=-1in%
+\oddsidemargin=0pt%
+\headheight=100pt%
+\marginparsep=0pt%
+\footskip=0pt%
+\voffset=-1in%
+\topmargin=-100pt%
+\headsep=0pt%
+\marginparwidth=0pt%
+\marginparpush=0pt%
+\paperwidth=216mm%
+\paperheight=279mm%
+\parskip=0pt%
+\parindent=0pt%
+\AtBeginDocument{\pagestyle{empty}}%
+}%
+
+\def\x#1#2#3{%
+  \noindent
+  \hbox to #1{%
+  \vbox to #2{%
+  {\color{lightgray}\hrule width #1}%
+  \noindent\hbox to #1{%
+    {\color{lightgray}\vrule height #2}%
+    \hbox{%
+    \includegraphics{#3}%
+    }%
+    {\color{lightgray}\vrule height #2}%
+  }%
+  {\color{lightgray}\hrule width #1}%
+  }%
+  }%
+  \ignorespaces
+}%
+
+\def\cards#1{%
+\x{0.499\textwidth}{0.499\textheight}{#1}%
+\x{0.499\textwidth}{0.499\textheight}{#1}%
+\par
+\x{0.499\textwidth}{0.499\textheight}{#1}%
+\x{0.499\textwidth}{0.499\textheight}{#1}%
+\clearpage
+}%
+
+\newcommand{\header}[1]{{%
+\hbox{}%
+\Large\centering\cuKinovarColor\bigheaderfont{#1}\par\vfill}}
+
+\newcommand{\subheader}[1]{{%
+\par\vfill\cuKinovarColor\centering\headerfont\normalsize{#1}\par}}
