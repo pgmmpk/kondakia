@@ -8,6 +8,7 @@
 2. Православие.ru http://days.pravoslavie.ru/Trop/IT3040.htm
 3. http://paskha.ru
 4. http://azbyka.ru
+5. http://lib.pravmir.ru/library/readbook/1856#part_22272 (reprint of Minea 1914)
 
 ROCA uses sometimes slightly different texts. And English translation is significantly different from OCA.
 Sources are:
