@@ -1,4 +1,4 @@
-TARGET  = meeting
+TARGET  = annunciation
 PICTURES = $(TARGET)-ru $(TARGET)-en $(TARGET)-cu
 
 TARGET_BW = $(TARGET)-bw

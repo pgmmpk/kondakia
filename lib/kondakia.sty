@@ -1,6 +1,9 @@
-\usepackage{polyglossia}
-\setmainlanguage{english}
+\ProvidesPackage{kondakia}[2017/02/21 v1.0 Kondakia]
 
+\RequirePackage{polyglossia}
+\RequirePackage{kvoptions}
+\RequirePackage{graphicx}
+\RequirePackage{xcolor}
 %
 % following allows conditional compilation:
 % xelatex -jobname christmas-ru.bw '\def\forcebw{}\input{christmas-ru}'
@@ -8,48 +11,54 @@
 % xelatex -jobname christmas-ru.color '\input{christmas-ru}'
 %
 \ifx\forcebw\undefined
-  \usepackage{churchslavonic}
+  \RequirePackage{churchslavonic}
 \else
-  \usepackage[bw]{churchslavonic}
+  \RequirePackage[bw]{churchslavonic}
 \fi
-\usepackage{graphicx}
-\usepackage{xcolor}
+
+\DeclareStringOption[1.0]{textScale}
+\DeclareStringOption[1.0]{sectionScale}
+\DeclareStringOption[1.0]{headerScale}
+\DeclareStringOption[1.0]{lineSpread}
+
+\ProcessKeyvalOptions*
+
+\setmainlanguage{english}
 
 \newfontfamily\churchslavonicfont
-[Script=Cyrillic,FakeStretch=1.1,Ligatures=TeX]{PonomarUnicode.otf}
+[Script=Cyrillic,Scale=\kondakia@textScale,FakeStretch=1.1,Ligatures=TeX]{PonomarUnicode.otf}
 
 \newfontfamily\churchslavonicfontspaced
-[Script=Cyrillic,FakeStretch=1.1,LetterSpace=15.0,Ligatures=TeX]{PonomarUnicode.otf}
+[Script=Cyrillic,Scale=\kondakia@sectionScale,FakeStretch=1.1,LetterSpace=15.0,Ligatures=TeX]{PonomarUnicode.otf}
 
 \newfontfamily\churchslavonicfontbold
-[Script=Cyrillic,FakeBold=2.0,Ligatures=TeX]{PonomarUnicode.otf}
+[Script=Cyrillic,Scale=\kondakia@headerScale,FakeBold=2.0,Ligatures=TeX]{PonomarUnicode.otf}
 
 \newfontfamily\englishfont
-[Script=Latin,Scale=0.9,Ligatures=TeX]{Arial}
+[Script=Latin,Scale=\kondakia@textScale,Ligatures=TeX]{Arial}
 
 \newfontfamily\englishfontspaced
-[Script=Latin,LetterSpace=15.0,Ligatures=TeX]{Arial}
+[Script=Latin,Scale=\kondakia@sectionScale,LetterSpace=15.0,Ligatures=TeX]{Arial}
 
 \newfontfamily\englishfontbold
-[Script=Latin,FakeBold=2.0,Ligatures=TeX]{Arial}
+[Script=Latin,Scale=\kondakia@headerScale,FakeBold=2.0,Ligatures=TeX]{Arial}
 
 \def\setlang#1{%
 \csname setlang#1\endcsname
+\linespread{\kondakia@lineSpread}%
+\mainfont
 }%
 %
 \def\setlangcu{%
 \let\mainfont\churchslavonicfont
 \let\headerfont\churchslavonicfontspaced
 \let\bigheaderfont\churchslavonicfontbold
-\linespread{1.1}%
-\mainfont
 }%
 %
 \def\setlangen{%
 \let\mainfont\englishfont
 \let\headerfont\englishfontspaced
 \let\bigheaderfont\englishfontbold
-\mainfont
 }%
 %
 \let\setlangru\setlangen
@@ -149,3 +158,5 @@
 
 \newcommand{\subheader}[1]{{%
 \par\vfill\cuKinovarColor\centering\headerfont\normalsize{#1}\par}}
+
+\endinput

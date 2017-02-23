@@ -11,33 +11,33 @@ XELATEX = TEXINPUTS=.:../lib:$(TEXINPUTS) xelatex -halt-on-error
 
 all: $(TARGET:=.pdf)
 
-$(TARGET:=.pdf): $(PICTURES:=.pdf) ../lib/cards.tex ../lib/cheatsheet.tex
+$(TARGET:=.pdf): $(PICTURES:=.pdf) ../lib/cards.tex ../lib/kondakia.sty
 	$(XELATEX) -jobname $(TARGET) "\input{cards}"
 
 
 bw: $(TARGET_BW:=.pdf)
 
-$(TARGET_BW:=.pdf): $(PICTURES_BW:=.pdf) ../lib/cards.tex ../lib/cheatsheet.tex
+$(TARGET_BW:=.pdf): $(PICTURES_BW:=.pdf) ../lib/cards.tex ../lib/kondakia.sty
 	$(XELATEX) -jobname $(TARGET_BW) "\def\forcebw{}\input{cards}"
 
 
 clean:
 	rm -f *.aux *.log *.pdf
 
-$(TARGET)-ru.pdf: $(TARGET)-ru.tex ../lib/cheatsheet.tex
+$(TARGET)-ru.pdf: $(TARGET)-ru.tex ../lib/kondakia.sty
 	$(XELATEX) $<
 
-$(TARGET)-en.pdf: $(TARGET)-en.tex ../lib/cheatsheet.tex
+$(TARGET)-en.pdf: $(TARGET)-en.tex ../lib/kondakia.sty
 	$(XELATEX) $<
 
-$(TARGET)-cu.pdf: $(TARGET)-cu.tex ../lib/cheatsheet.tex
+$(TARGET)-cu.pdf: $(TARGET)-cu.tex ../lib/kondakia.sty
 	$(XELATEX) $<
 
-$(TARGET_BW)-ru.pdf: $(TARGET)-ru.tex ../lib/cheatsheet.tex
+$(TARGET_BW)-ru.pdf: $(TARGET)-ru.tex ../lib/kondakia.sty
 	$(XELATEX) -jobname $(TARGET_BW)-ru "\def\forcebw{}\input{$(TARGET)-ru}"
 
-$(TARGET_BW)-en.pdf: $(TARGET)-en.tex ../lib/cheatsheet.tex
+$(TARGET_BW)-en.pdf: $(TARGET)-en.tex ../lib/kondakia.sty
 	$(XELATEX) -jobname $(TARGET_BW)-en "\def\forcebw{}\input{$(TARGET)-en}"
 
-$(TARGET_BW)-cu.pdf: $(TARGET)-cu.tex ../lib/cheatsheet.tex
+$(TARGET_BW)-cu.pdf: $(TARGET)-cu.tex ../lib/kondakia.sty
 	$(XELATEX) -jobname $(TARGET_BW)-cu "\def\forcebw{}\input{$(TARGET)-cu}"
