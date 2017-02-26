@@ -24,6 +24,10 @@ $(TARGET_BW:=.pdf): $(PICTURES_BW:=.pdf) ../lib/cards.tex ../lib/kondakia.sty
 clean:
 	rm -f *.aux *.log *.pdf
 
+install: all bw
+	mkdir -p ../docs/files/
+	cp *.pdf ../docs/files/
+
 $(TARGET)-ru.pdf: $(TARGET)-ru.tex ../lib/kondakia.sty
 	$(XELATEX) $<
 

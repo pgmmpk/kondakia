@@ -1,4 +1,4 @@
-TOPTARGETS := all bw clean
+TOPTARGETS := all bw clean install
 
 SUBDIRS := christmas epiphany meeting annunciation
 
