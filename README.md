@@ -1,6 +1,6 @@
 # kondakia
 
-Troparion, kondakion, and magnification texts for major orthodox christian holidays.
+Troparion, kondakion, and magnification texts for major orthodox christian holidays -
 Тропари, кондаки и величания на все крупные православные праздники.
 
 ## Requirements
@@ -19,4 +19,13 @@ To build black-and-white version of documents, do
 
 ```
 make bw
+```
+
+To build and publish generated PDF files, do
+
+```
+make install
+git add docs/files
+git commit -m 'thoughtful notes'
+git push
 ```
