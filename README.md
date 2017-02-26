@@ -1,6 +1,7 @@
 # kondakia
 
-Troparion, kondakion, and magnification texts for major orthodox christian holidays -
+Troparion, kondakion, and magnification texts for major orthodox christian holidays.
+
 Тропари, кондаки и величания на все крупные православные праздники.
 
 Please see http://kondakia.kroutikov.net for the ready-to-print PDF documents. Готовые к печати PDF
