@@ -5,14 +5,14 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 ## How to print. Как правильно распечатать.
 
-Master files are designed to be printed on standard Letter-sise paper. 
+Master files are designed to be printed on standard paper of size "Letter". 
 They are carefully crafted to use as much of the paper space as possible. But many print dialogs
 try to be smart and automatically scale down the document "to fit into printing area". 
-To get the best result, please, make sure that smart option is disabled. In some dialogs the relevant option is named "Fit to page" or "fit to printing area". In others you may see an available option "Scale image: 94%". In the latter case, change
-scaling to 100%.
+To get the best result, please, make sure that smart option is disabled. In some dialogs the relevant option is named "Fit to page" or "Fit to printing area". In others you may see a field "Scale image: 94%". In the latter case, just change the
+scale to 100%.
 
-Мастер файлы созданы для печати на бумаге стандартного размера Letter.
-Они расcчитаны таким образм чтобы максимально полно использовать бумагу при печати. Но многие программы печати
+Мастер файлы созданы для печати на бумаге стандартного размера "Letter".
+Они расcчитаны таким образoм, чтобы максимально полно использовать бумагу при печати. Но многие программы печати
 автоматически масштабируют документ чтобы "уместить в область печати". Надо отключать автоматическое масштабирование - тогда поля будут минимальны и результат оптимальным. Соответствующая опция часто называется "Масштабировать к размеру страницы" или "Масштабировать к размеру области печати". В некоторых случаях вы увидите поле "Масштаб: 94%" - в этом случае просто укажите значение масштаба 100%.
 
 ## Color master files. Мастер файлы в цвете.
