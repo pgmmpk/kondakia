@@ -23,7 +23,6 @@ Sources are:
 * `ru`: http://rojdestvo.paskha.ru/Bogoslovie/Texty/Tropar/
 * `cu`: http://www.ponomar.net/cgi-bin/bookreader2.cgi?uuid=d6be2c28-d1e9-11e0-95a4-8a8c05da9c68&file=25.xml
 
-
 ## Meeting of Lord in the Temple
 
 * `ru`: http://sretenie.paskha.ru/Bogoslovie/Bogosluzhenie/Tropar/
@@ -32,3 +31,8 @@ Sources are:
 * `en`:https://oca.org/PDF/Music/MajorFeasts/MeetingLord/02.02.magnification.znamenny.pdf
   https://oca.org/liturgics/music-downloads/meeting-of-our-lord
   https://oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/meeting-of-the-lord
+
+## Triumph of orthodoxy
+
+* http://diak.ortox.ru/*_triodi_postnojj/view/id/1104517
+* http://www.rocor-kiev.org/library/2011-08-15-07-48-49/455-tipikon-2016.html

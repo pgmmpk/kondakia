@@ -6,38 +6,40 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 ## Color master files. Мастер файлы в цвете.
 
 * [Christmas. Рождество Христово.](files/christmas.pdf)
-  - [ru](files/christmas-ru.pdf) / [cu](files/christmas-cu.pdf) / [en](files/christmas-en.pdf)
+  - [ru](files/christmas-ru.pdf) / [cu](files/christmas-cu.pdf) / [en](files/christmas-en.pdf)<sup>*</sup>
 
 * [Epiphany. Крещение.](files/epiphany.pdf)
-  - [ru](files/epiphany-ru.pdf) / [cu](files/epiphany-cu.pdf) / [en](files/epiphany-en.pdf)
+  - [ru](files/epiphany-ru.pdf) / [cu](files/epiphany-cu.pdf) / [en](files/epiphany-en.pdf)<sup>*</sup>
 
 * [Meeting. Сретение.](files/meeting.pdf)
   - [ru](files/meeting-ru.pdf) / [cu](files/meeting-cu.pdf) / [en](files/meeting-en.pdf)
 
 * [Annunciation. Благовещение.](files/annunciation.pdf)
-  - [ru](files/annunciation-ru.pdf) / [cu](files/annunciation-cu.pdf) / [en](files/annunciation-en.pdf)
+  - [ru](files/annunciation-ru.pdf) / [cu](files/annunciation-cu.pdf) / [en](files/annunciation-en.pdf)<sup>*</sup>
 
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
-  - [ru](files/christmas-bw-ru.pdf) / [cu](files/christmas-bw-cu.pdf) / [en](files/christmas-bw-en.pdf)
+  - [ru](files/christmas-bw-ru.pdf) / [cu](files/christmas-bw-cu.pdf) / [en](files/christmas-bw-en.pdf)<sup>*</sup>
 
 * [Epiphany. Крещение.](files/epiphany-bw.pdf)
-  - [ru](files/epiphany-bw-ru.pdf) / [cu](files/epiphany-bw-cu.pdf) / [en](files/epiphany-bw-en.pdf)
+  - [ru](files/epiphany-bw-ru.pdf) / [cu](files/epiphany-bw-cu.pdf) / [en](files/epiphany-bw-en.pdf)<sup>*</sup>
 
 * [Meeting. Сретение.](files/meeting-bw.pdf)
   - [ru](files/meeting-bw-ru.pdf) / [cu](files/meeting-bw-cu.pdf) / [en](files/meeting-bw-en.pdf)
 
 * [Annunciation. Благовещение.](files/annunciation-bw.pdf)
-  - [ru](files/annunciation-bw-ru.pdf) / [cu](files/annunciation-bw-cu.pdf) / [en](files/annunciation-bw-en.pdf)
+  - [ru](files/annunciation-bw-ru.pdf) / [cu](files/annunciation-bw-cu.pdf) / [en](files/annunciation-bw-en.pdf)<sup>*</sup>
+
+<sup>*</sup>English text needs verification. Версия еа английском языке требует проверки.
 
 ## How to print. Как правильно распечатать.
 
 ### Page fit. Масштабирование.
 
-Master files are designed to be printed on standard paper of size "Letter". 
+Master files are designed to be printed on standard paper of size "Letter".
 They are carefully crafted to use as much of the paper space as possible. But many print dialogs
-try to be smart and automatically scale down the document "to fit into printing area". 
+try to be smart and automatically scale down the document "to fit into printing area".
 To get the best result, please, make sure that smart option is disabled. In some dialogs the relevant option is named "Fit to page" or "Fit to printing area". In others you may see a field "Scale image: 94%". In the latter case, just change the
 scale to 100%.
 
@@ -58,4 +60,3 @@ To achieve this, first specify the two pages (corresponding to the languages) in
 
 Если ваш принтер поддерживает двустороннюю печать, то можно поместить один язык на одной стороне, а другой - на оборотной.
 Для этого во-первых, укажите какие страницы печатать (что соответствует выбору языков). Затем отметьте опцию "двусторонняя печать".
-
