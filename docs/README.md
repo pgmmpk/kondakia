@@ -31,7 +31,7 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Annunciation. Благовещение.](files/annunciation-bw.pdf)
   - [ru](files/annunciation-bw-ru.pdf) / [cu](files/annunciation-bw-cu.pdf) / [en](files/annunciation-bw-en.pdf)<sup>*</sup>
 
-<sup>*</sup>English text needs verification. Версия еа английском языке требует проверки.
+<sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
 ## How to print. Как правильно распечатать.
 
