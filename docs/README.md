@@ -20,6 +20,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Entrance of the Lord into Jerusalem. Вход Господень в Иерусалим.](files/palm.pdf)
   - [ru](files/palm-ru.pdf) / [cu](files/palm-cu.pdf) / [en](files/palm-en.pdf)<sup>*</sup>
 
+* [Pascha. Пасха.](files/easter.pdf)
+  - [ru](files/easter-ru.pdf) / [cu](files/easter-cu.pdf) / [en](files/easter-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -36,6 +39,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Entrance of the Lord into Jerusalem. Вход Господень в Иерусалим.](files/palm-bw.pdf)
   - [ru](files/palm-bw-ru.pdf) / [cu](files/palm-bw-cu.pdf) / [en](files/palm-bw-en.pdf)<sup>*</sup>
+
+* [Pascha. Пасха.](files/easter-bw.pdf)
+  - [ru](files/easter-bw-ru.pdf) / [cu](files/easter-bw-cu.pdf) / [en](files/easter-bw-en.pdf)<sup>*</sup>
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
