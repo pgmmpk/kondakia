@@ -17,6 +17,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Annunciation. Благовещение.](files/annunciation.pdf)
   - [ru](files/annunciation-ru.pdf) / [cu](files/annunciation-cu.pdf) / [en](files/annunciation-en.pdf)<sup>*</sup>
 
+* [Entrance of the Lord into Jerusalem. Вход Господень в Иерусалим.](files/palm.pdf)
+  - [ru](files/palm-ru.pdf) / [cu](files/palm-cu.pdf) / [en](files/palm-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -30,6 +33,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Annunciation. Благовещение.](files/annunciation-bw.pdf)
   - [ru](files/annunciation-bw-ru.pdf) / [cu](files/annunciation-bw-cu.pdf) / [en](files/annunciation-bw-en.pdf)<sup>*</sup>
+
+* [Entrance of the Lord into Jerusalem. Вход Господень в Иерусалим.](files/palm-bw.pdf)
+  - [ru](files/palm-bw-ru.pdf) / [cu](files/palm-bw-cu.pdf) / [en](files/palm-bw-en.pdf)<sup>*</sup>
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
