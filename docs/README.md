@@ -23,6 +23,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Pascha. Пасха.](files/easter.pdf)
   - [ru](files/easter-ru.pdf) / [cu](files/easter-cu.pdf) / [en](files/easter-en.pdf)<sup>*</sup>
 
+* [Ascention. Вознесение.](files/ascention.pdf)
+  - [ru](files/ascention-ru.pdf) / [cu](files/ascention-cu.pdf) / [en](files/ascention-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -42,6 +45,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Pascha. Пасха.](files/easter-bw.pdf)
   - [ru](files/easter-bw-ru.pdf) / [cu](files/easter-bw-cu.pdf) / [en](files/easter-bw-en.pdf)<sup>*</sup>
+
+* [Ascention. Вознесение.](files/ascention-bw.pdf)
+  - [ru](files/ascention-bw-ru.pdf) / [cu](files/ascention-bw-cu.pdf) / [en](files/ascention-bw-en.pdf)<sup>*</sup>
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
