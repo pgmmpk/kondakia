@@ -1,6 +1,6 @@
 TOPTARGETS := all bw clean install
 
-SUBDIRS := christmas epiphany meeting annunciation palm easter
+SUBDIRS := christmas epiphany meeting annunciation palm easter ascention
 
 $(TOPTARGETS): $(SUBDIRS)
 
