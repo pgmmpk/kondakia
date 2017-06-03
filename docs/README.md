@@ -26,6 +26,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Ascention. Вознесение.](files/ascention.pdf)
   - [ru](files/ascention-ru.pdf) / [cu](files/ascention-cu.pdf) / [en](files/ascention-en.pdf)<sup>*</sup>
 
+* [Pentecost. Троица.](files/pentecost.pdf)
+  - [ru](files/pentecost-ru.pdf) / [cu](files/pentecost-cu.pdf) / [en](files/pentecost-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -48,6 +51,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Ascention. Вознесение.](files/ascention-bw.pdf)
   - [ru](files/ascention-bw-ru.pdf) / [cu](files/ascention-bw-cu.pdf) / [en](files/ascention-bw-en.pdf)<sup>*</sup>
+
+* [Pentecost. Троица.](files/pentecost-bw.pdf)
+  - [ru](files/pentecost-bw-ru.pdf) / [cu](files/pentecost-bw-cu.pdf) / [en](files/pentecost-bw-en.pdf)
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
