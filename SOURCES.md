@@ -36,3 +36,6 @@ Sources are:
 
 * http://diak.ortox.ru/*_triodi_postnojj/view/id/1104517
 * http://www.rocor-kiev.org/library/2011-08-15-07-48-49/455-tipikon-2016.html
+
+## Magalynaria
+* http://www.passaicrussianchurch.com/books/english/liturgical_rubrics_1.htm
