@@ -30,7 +30,7 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
   - [ru](files/pentecost-ru.pdf) / [cu](files/pentecost-cu.pdf) / [en](files/pentecost-en.pdf)<sup>*</sup>
 
 * [Transfiguration. Преображение.](files/transfiguration.pdf)
- [ru](files/transfiguration-ru.pdf) / [cu](files/transfiguration-cu.pdf) / [en](files/transfiguration-en.pdf)<sup>*</sup>
+  - [ru](files/transfiguration-ru.pdf) / [cu](files/transfiguration-cu.pdf) / [en](files/transfiguration-en.pdf)<sup>*</sup>
 
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
