@@ -32,6 +32,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Transfiguration. Преображение.](files/transfiguration.pdf)
   - [ru](files/transfiguration-ru.pdf) / [cu](files/transfiguration-cu.pdf) / [en](files/transfiguration-en.pdf)<sup>*</sup>
 
+* [Dormition. Успение.](files/dormition.pdf)
+  - [ru](files/dormition-ru.pdf) / [cu](files/dormition-cu.pdf) / [en](files/dormition-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -60,6 +63,9 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Transfiguration. Преображение.](files/transfiguration-bw.pdf)
   - [ru](files/transfiguration-bw-ru.pdf) / [cu](files/transfiguration-bw-cu.pdf) / [en](files/transfiguration-bw-en.pdf)
+
+* [Dormition. Успение.](files/dormition-bw.pdf)
+  - [ru](files/dormition-bw-ru.pdf) / [cu](files/dormition-bw-cu.pdf) / [en](files/dormition-bw-en.pdf)
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
