@@ -35,6 +35,12 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Dormition. Успение.](files/dormition.pdf)
   - [ru](files/dormition-ru.pdf) / [cu](files/dormition-cu.pdf) / [en](files/dormition-en.pdf)<sup>*</sup>
 
+* [Nativity of Theotokos. Рождество Богородицы.](files/nativity.pdf)
+  [ru](files/nativity-ru.pdf) / [cu](files/nativity-cu.pdf) / [en](files/nativity-en.pdf)<sup>*</sup>
+
+* [Elevation of the Cross. Воздвижение Креста.](files/elevation.pdf)
+  [ru](files/elevation-ru.pdf) / [cu](files/elevation-cu.pdf) / [en](files/elevation-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -66,6 +72,12 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Dormition. Успение.](files/dormition-bw.pdf)
   - [ru](files/dormition-bw-ru.pdf) / [cu](files/dormition-bw-cu.pdf) / [en](files/dormition-bw-en.pdf)
+
+* [Nativity of Theotokos. Рождество Богородицы.](files/nativity-bw.pdf)
+  [ru](files/nativity-bw-ru.pdf) / [cu](files/nativity-bw-cu.pdf) / [en](files/nativity-bw-en.pdf)<sup>*</sup>
+
+* [Elevation of the Cross. Воздвижение Креста.](files/elevation-bw.pdf)
+  [ru](files/elevation-bw-ru.pdf) / [cu](files/elevation-bw-cu.pdf) / [en](files/elevation-bw-en.pdf)<sup>*</sup>
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
