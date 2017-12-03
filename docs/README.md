@@ -41,6 +41,10 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 * [Elevation of the Cross. Воздвижение Креста.](files/elevation.pdf)
   [ru](files/elevation-ru.pdf) / [cu](files/elevation-cu.pdf) / [en](files/elevation-en.pdf)<sup>*</sup>
 
+* [Entry of The Most Holy Theotokos into the Temple. Введение в храм Пресвятой Богородицы](files/entry.pdf)
+  [ru](files/entry-ru.pdf) /
+  [cu](files/entry-cu.pdf) / [en](files/entry-en.pdf)<sup>*</sup>
+
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
 * [Christmas. Рождество Христово.](files/christmas-bw.pdf)
@@ -78,6 +82,10 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 * [Elevation of the Cross. Воздвижение Креста.](files/elevation-bw.pdf)
   [ru](files/elevation-bw-ru.pdf) / [cu](files/elevation-bw-cu.pdf) / [en](files/elevation-bw-en.pdf)<sup>*</sup>
+
+* [Entry of The Most Holy Theotokos into the Temple. Введение в храм Пресвятой Богородицы](files/entry-bw.pdf)
+  [ru](files/entry-bw-ru.pdf) /
+  [cu](files/entry-bw-cu.pdf) / [en](files/entry-bw-en.pdf)<sup>*</sup>
 
 <sup>*</sup>English text needs verification. Версия на английском языке требует проверки.
 
