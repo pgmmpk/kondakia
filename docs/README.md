@@ -5,7 +5,7 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 ## Color master files. Мастер файлы в цвете.
 
-* [Christmas. Рождество Христово.](files/christmas.pdf)
+* [Nativity. Рождество Христово.](files/christmas.pdf)
   - [ru](files/christmas-ru.pdf) / [cu](files/christmas-cu.pdf) / [en](files/christmas-en.pdf)<sup>*</sup>
 
 * [Epiphany. Крещение.](files/epiphany.pdf)
@@ -47,7 +47,7 @@ This is work-in-progress. During the year 2017 I'll keep adding documents for th
 
 ## Black-and-white master files. Чёрно-белые мастер файлы.
 
-* [Christmas. Рождество Христово.](files/christmas-bw.pdf)
+* [Nativity. Рождество Христово.](files/christmas-bw.pdf)
   - [ru](files/christmas-bw-ru.pdf) / [cu](files/christmas-bw-cu.pdf) / [en](files/christmas-bw-en.pdf)<sup>*</sup>
 
 * [Epiphany. Крещение.](files/epiphany-bw.pdf)
